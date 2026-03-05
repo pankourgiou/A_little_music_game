@@ -1,0 +1,2 @@
+Let's move forward a bit without bad emotions, I made a little music game 4 types of scales slow tempo so that even people with ear malfunctions can follow. The idea is to combine audio visual experience to be creative
+Now, you will have to copy paste the code and save it as .html then double click the file and voila! A full working music game! My "payment" here is to see a good(meaning not bad) emotion. I hope you enjoy!
